@@ -1,7 +1,7 @@
 # radiation_project
 
 
-This notebook will outline the steps and calculations I make in order to demonstrate the time evolved spectrum of an accretion disk orbiting a central force. https://colab.research.google.com/drive/1lL4e6DEQs8NYyOfFLo6r6FMP-hy96MiX?usp=sharing 
+This notebook will outline the steps and calculations I make in order to demonstrate the time evolved spectrum of an accretion disk orbiting a central force. https://colab.research.google.com/drive/1lL4e6DEQs8NYyOfFLo6r6FMP-hy96MiX?usp=sharing    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aweb23/radiation_project/main/disk_spectrum.ipynb)  
 
 You can run the notebook on Google Colaboratory by clicking on the Open in Colab badge at the end of this paragraph. You will need to sign in with your Google account. Execute the whole notebook by clicking on Run all from the Runtime menu (you will click on Run anyway if an authorship warning appears). You can then change inputs or code in the notebook, as desired. Open In Colab
 
